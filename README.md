@@ -24,13 +24,13 @@ The three dataframes were combined to come up with one (Combined_df) for easy ma
 
 From this findings and insights should be retrived to recomend Microsoft company about their new adventure on starting a movie studio.
 
-##Lead Questions include:
+### Lead Questions include:
 
 How many movies are being made of each genre?
 What genres are the most successful, both in terms of audience rating and gross earnings?
 How correlated is the Return on Investment to the Genres ratings ?
 
-##Conclusions
+### Conclusions
 We have drawn many interesting inferences from the dataset Netflix titles; here's a summary of the few of them:
 
 The most genre type is drama with the least as war,
@@ -39,7 +39,7 @@ The amount of total Gross does affect the rating of the movie,
 
 Some Genre Combinations are more relatable to each other unlike others.
 
-##Recommendations
+### Recommendations
 The studios that should be invested in should be either The mayor,Tomorrow or The way
 
 The company should consider starting with the production of drama genre movies.
